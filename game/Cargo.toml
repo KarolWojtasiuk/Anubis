@@ -1,0 +1,7 @@
+[package]
+name = "anubis"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+engine.path = "../engine"
