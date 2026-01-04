@@ -1,0 +1,8 @@
+[book]
+title = "Anubis"
+language = "en"
+
+[output.html]
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/KarolWojtasiuk/Anubis"
+edit-url-template = "https://github.com/KarolWojtasiuk/Anubis/edit/master/{path}"
