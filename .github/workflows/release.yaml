@@ -7,6 +7,7 @@ on:
 
 env:
   binary: anubis
+  CARGO_TERM_COLOR: always
 
 jobs:
   linux:
