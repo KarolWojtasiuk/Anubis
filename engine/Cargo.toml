@@ -4,4 +4,6 @@ version.workspace = true
 edition.workspace = true
 
 [dependencies]
+avian3d = "0.4.1"
 bevy = "0.17.3"
+smart-default = "0.7.1"
